@@ -9,6 +9,8 @@ import javax.imageio.ImageIO;
 
 public class Hero {
 	//I commented this online
+	//IDGAF
+	//hola
 	BufferedImage sprite;
 	String name;
 	int x;
