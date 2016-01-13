@@ -8,7 +8,7 @@ import java.net.URL;
 import javax.imageio.ImageIO;
 
 public class Hero {
-	
+	//I commented this online
 	BufferedImage sprite;
 	String name;
 	int x;
